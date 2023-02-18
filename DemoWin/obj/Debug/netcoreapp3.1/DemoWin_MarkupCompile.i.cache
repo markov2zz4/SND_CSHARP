@@ -4,7 +4,7 @@
 winexe
 C#
 .cs
-C:\Users\shpetai\source\repos\SND_CSHARP\DemoWin\obj\Debug\netcoreapp3.1\
+D:\Work\Programming\SND_CSHARP\SND_CSHARP\DemoWin\obj\Debug\netcoreapp3.1\
 DemoWin
 none
 false
@@ -16,5 +16,5 @@ TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
 192-1533232326
 MainWindow.xaml;
 
-True
+False
 
