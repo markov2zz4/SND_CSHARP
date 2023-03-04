@@ -59,15 +59,5 @@ namespace ButtonApp.Properties {
                 resourceCulture = value;
             }
         }
-        
-        /// <summary>
-        ///   Поиск локализованного ресурса типа System.Byte[].
-        /// </summary>
-        internal static byte[] purple {
-            get {
-                object obj = ResourceManager.GetObject("purple", resourceCulture);
-                return ((byte[])(obj));
-            }
-        }
     }
 }
